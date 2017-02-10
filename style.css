@@ -1,0 +1,23 @@
+.header {
+  background:#FFE4B5;
+  padding: 20px;
+  margin: 0 0 20px 0;
+  color: red;
+  font-family: sans-serif;
+}
+.header img {
+  width: 50px;
+  float: left;
+  margin: 0 20px 0 0;
+  position: relative;
+  top: +15px;
+}
+
+button {
+  margin: 10px 20px 0 20px;
+}
+.rooster img{
+  width: 500px;
+  float: middle;
+  margin: 20px 20px 20px 20px;
+}
